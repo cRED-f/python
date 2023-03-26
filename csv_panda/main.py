@@ -15,3 +15,7 @@ import pandas
  
 file_read=pandas.read_csv("weather-data.csv")
 print(file_read)
+print("this is temperature data:")
+print(file_read["temp"])
+print("this is day data")
+print(file_read["day"])
