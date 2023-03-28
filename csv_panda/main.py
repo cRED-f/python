@@ -107,11 +107,3 @@ print(new_fur_color_data)
 
 
 
-
-
-
-
-
-
-
-
